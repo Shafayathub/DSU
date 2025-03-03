@@ -26,4 +26,4 @@ int main()
     cout << find(4) << endl;
 
     return 0;
-}
+} 
